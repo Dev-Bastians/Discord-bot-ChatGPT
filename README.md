@@ -12,9 +12,6 @@ commands :
 * You can ask anything with ```/ask 'question'```
 * You can generate images with ```/image 'prompt'```
 * You can edit other members' pp with ```/remix @mentionuser prompt```
-* You can generate videos with ```/video prompt```
-
-## [You can test it on discord](https://discord.gg/xggt6w6Sz4)
 
 Screenshots :
 
@@ -35,8 +32,7 @@ Screenshots :
 
 ## How to run it?
 
-Firstly, you should rename ".env.example" file to ".env".
-After that you should fill it correctly.
+You should fill .env parameters correctly.
 When you fill it, you can start it with two ways.
 
 ### with nodejs
